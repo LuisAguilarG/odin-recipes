@@ -1,12 +1,20 @@
-# odin-recipes
-Proyecto "Recipes" para finalizar el módulo "HTML Foundations" de The Odin Project. 
+# The Odin Project: Odin-Recipes
 
-Para la realización de esta actividad, seré capaz de poner en práctica las siguientes habilidades:
+## Módulo
+- HTML Foundations.
 
--Uso de la terminal de Linux
--Configuración de Git
--Configuración de GitHub
--Uso de Visual Studio Code
--Creación de archivos HTML
--Uso de etiquetas, atributos y valores en HTML
+## Actividad
+7. Project: Recipes.
 
+## Descripción
+- Uso de la terminal de **Linux**
+
+- Configuración de **Git**
+
+- Configuración de **GitHub**
+
+- Uso de **Visual Studio Code**
+
+- Creación de archivos **HTML**
+
+- Uso de etiquetas, atributos y valores en **HTML**
